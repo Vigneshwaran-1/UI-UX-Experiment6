@@ -1,7 +1,7 @@
 # UI-UX-Experiment6
 
 ## Aim:
-  ##To make a combined scenario
+  ## To make a combined scenario
 
 ## Algorithm:
 ~~~~
